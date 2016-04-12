@@ -1,1 +1,9 @@
-# SegmentButtons
+## SegmentButtons
+
+#滑动按钮动画 提供一种思路
+-------
+
+![](展示图.gif)
+
+   
+-----------
